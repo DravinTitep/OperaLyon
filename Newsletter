@@ -1,0 +1,1936 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml">  <head><meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">    <title></title>    <meta name="viewport" media="orientation:landscape" content="width=960">    <meta name="viewport" media="orientation:portrait" content="width=480">    <meta name="format-detection" content="address=no">    <style type="text/css">				      			body { margin:0 !important; }				div[style*="margin: 16px 0"] { margin:0 !important; font-size:100% !important; }				/* OUTLOOK.COM FIX line-height */    				.ExternalClass { width:100% !important; } 				.ExternalClass * { line-height: 110% !important; }				/* iOS REMOVE BLUE LINK */				a[x-apple-data-detectors] {					color: inherit !important;					text-decoration: none !important;					font-size: inherit !important;					font-family: inherit !important;					font-weight: inherit !important;					line-height: inherit !important;				}				/*WINDOWS 10 PHONE et MAIL LINK FIX*/				a:link, span.MsoHyperlink {					text-decoration:none !important;				}				a.underline:link { text-decoration:underline !important; }								<!-- div, p, a, li, td { -webkit-text-size-adjust:none; } -->				<!-- p{ margin: 0; padding: 0; } -->				<!-- body { margin: 0; padding: 0; min-width: 100%; text-align:center; } -->				<!-- table { border:0; padding:0; margin:0; border-spacing: 0; } -->						<!-- td { padding-top:0; padding-bottom:0; padding-right:0; padding-left:0; margin:0; } -->				<!-- img { border: 0; display:block; vertical-align:top; } -->   				<!-- a { border:0; } -->     				<!-- th{margin:0;padding:0;font-weight:normal;vertical-align:top;} -->				<!-- .full-width-image { width: 100%; max-width: 624px; height: auto; } -->				<!-- .bgColorWhite { background-color:#ffffff; } -->				<!-- .bgColorRed { background-color:#f70810; } -->				<!-- .bgColorGrey { background-color:#e8e5e5; } -->				<!-- .bgColorGreyLight { background-color:#f5f2f2; } -->				<!-- .bgColorBlack { background-color:#000000; } -->				<!-- .bgColorBeige { background-color:#b2a064; } -->				<!-- .bgCenter { background-position:top center; } -->				<!-- .bgNoRepeat { background-repeat:no-repeat; } -->				<!-- .arial { font-family:Arial, Helvetica, sans-serif; } -->						<!-- .italic { font-style:italic; } -->				<!-- .white { color:#ffffff; } -->				<!-- .grey-light { color:#c3c3c3; } -->				<!-- .grey-dark { color:#262424; } -->				<!-- .grey{ color:#828282; } -->				<!-- .black {color:#000000;} -->				<!-- .blue { color:#00478f; } -->				<!-- .pink { color:#dd3d7d; } -->				<!-- .red { color:#e73132; } -->				<!-- .beige{ color:#b2a064; } -->				<!-- .size35 { font-size:35px; } -->				<!-- .size28 { font-size:28px; } -->				<!-- .size22 { font-size:22px; } -->				<!-- .size20 { font-size:20px; } -->				<!-- .size16 { font-size:16px; } -->				<!-- .size15 { font-size:15px; } -->				<!-- .size14 { font-size:14px; } -->				<!-- .size12 { font-size:12px; } -->				<!-- .size10 { font-size:10px; } -->						<!-- .size0  { font-size:0px; } -->				<!-- .lineHeight37 { line-height:37px; } -->				<!-- .lineHeight33 { line-height:33px; } -->				<!-- .lineHeight28 { line-height:28px; } -->				<!-- .lineHeight24 { line-height:24px; } -->				<!-- .lineHeight20 { line-height:20px; } -->				<!-- .lineHeight17 { line-height:17px; } -->				<!-- .lineHeight16 { line-height:16px; } -->				<!-- .lineHeight11 { line-height:11px; } -->				<!-- .lineHeight0  { line-height:0px; } -->				<!-- .noUnderline{text-decoration: none;} -->				<!-- .paddingTop15{padding-top:15px;} -->				<!-- .paddingTop20{padding-top:20px;} -->				<!-- .paddingTop30{padding-top:30px;} -->				<!-- .paddingTop40{padding-top:40px;} -->				<!-- .paddingTop45{padding-top:45px;} -->				<!-- .paddingTop50{padding-top:50px;} -->				<!-- .paddingBottom2{padding-bottom: 2px;} -->				<!-- .paddingBottom5{padding-bottom: 5px;} -->				<!-- .paddingBottom10{padding-bottom: 10px;} -->				<!-- .paddingBottom15{padding-bottom: 15px;} -->				<!-- .paddingBottom50{padding-bottom: 50px;} -->				<!-- .paddingBottom40{padding-bottom: 40px;} -->				<!-- .paddingBottom45{padding-bottom: 45px;} -->				<!-- .paddingBottom30{padding-bottom: 30px;} -->				<!-- .paddingBottom25{padding-bottom: 25px;} -->				<!-- .paddingBottom20{padding-bottom: 20px;} -->				<!-- .paddingLeft40{padding-left:40px;} -->				<!-- .paddingRight40{padding-right:40px;} -->				<!-- .paddingRight30{padding-right:30px;} -->				<!-- .paddingLeft30{padding-left:30px;} -->				<!-- .paddingRight20{padding-right:20px;} -->				<!-- .paddingRight10{padding-right:10px;} -->				<!-- .marginBottom40{margin-bottom:40px;} -->				<!-- .marginBottom30{margin-bottom:30px;} -->				<!-- .marginBottom25{margin-bottom:25px;} -->				<!-- .marginBottom15{margin-bottom:15px;} -->				<!-- .marginBottom5{margin-bottom:5px;} -->				<!-- .height170{height: 170px;} -->				<!-- .minHeight202{min-height: 202px;} -->				<!-- .minHeight320{min-height: 320px;} -->				<!-- .mso-lineHeight { mso-line-height-rule:exactly; } -->			<!-- .arialblack{font-family: Arial Black, Arial Bold, Gadget, sans-serif;letter-spacing: 2px;} -->				<!-- .roundCorner0 { -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; } -->					<!-- .inlineBlock { display: inline-block; } -->						<!-- .paddingL40R0TB25 { padding-left:40px; padding-right: 0px;padding-top:25px; padding-bottom:25px; } -->				<!-- .paddingTB25LR40 {padding :25px 40px;} -->				<!-- .borderBeige { border: 1px solid #b2a064; } -->				<!-- .borderBlack { border: 1px solid #000000; } -->				<!-- .paddingTB25 {padding-top :25px; padding-bottom:25px;} -->				<!-- .preheader{ font-size:1px; line-height:1px; display:none; max-width:0px; max-height:0px; opacity:0; overflow:hidden; mso-hide:all; color:#e8e5e5 } -->								@media only screen and (max-width:480px) {                  body.rBody {                      background-color: #e8e5e5;                      margin: 0 0 0 0;                      padding: 0;                      word-wrap: break-word;                  }                  div,                  p,                  a,                  li,                  td {                      -webkit-text-size-adjust: none;                  }                  table.rWidth320px, td.rWidth320px, th.rWidth320px, img.rWidth320px {                      width: 320px !important;                      height: auto !important;                  }      			table.rWidth300px, td.rWidth300px {                      width: 300px;                      height: auto;                  }      			table.rWidth272px, td.rWidth272px, th.rWidth272px {                      width: 272px;                      height: auto;                  }      			table.rWidth232px, td.rWidth232px, th.rWidth232px {                      width: 232px;                      height: auto;                  }      			img.rWidth234px{      				width: 234px;                      height: auto;      			}      			table.rWidth24px, td.rWidth24px, th.rWidth24px {                      width: 24px;                      height: auto;                  }      			table.rWidth20px, td.rWidth20px, th.rWidth20px {                      width: 20px;                      height: auto;                  }      			table.rWidth216px, td.rWidth216px, th.rWidth216px {                      width: 216px;                      height: auto;                  }      			th.rWidth60percent {                      width: 60%;                      height: auto;                  }      			th.rWidth40percent {                      width: 40%;                      height: auto;                  }                  .rDisplayNone {                      display: none !important;                  }                  .rDisplayTrue {                      display: table-cell !important;                  }                  .rDisplayBlock {                      display: block !important;                  }      			.rDisplayInlineBlock {                      display: inline-block !important;                  }      			.rMarginAuto { margin:0 auto !important; }      			.rAlignCenter{text-align: center!important; }      			.rPaddingTop20{padding-top:20px !important;}      			.rPaddingBottom8{padding-bottom:8px !important;}      			.rPaddingBottom15{padding-bottom:15px !important;}      			.rPaddingBottom40{padding-bottom:40px !important;}      			.rPaddingleft20{padding-left:20px;}              }    </style>  </head>  <body class="rBody bgColorGrey" style="margin:0;padding:0;min-width:100%;text-align:center;background-color:#e8e5e5;">
+<table class="bgColorGrey" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #e8e5e5;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td class="paddingTop20 paddingBottom20 rWidth300px" style="-webkit-text-size-adjust: none; margin: 0; padding: 20px 0 20px 0;" align="center" valign="top">
+<div class="preheader arial mso-lineHeight" style="-webkit-text-size-adjust: none; font-size: 1px; line-height: 1px; display: none; max-width: 0px; max-height: 0px; opacity: 0; overflow: hidden; mso-hide: all; font-family: Arial, Helvetica, sans-serif; color: #e8e5e5; mso-line-height-rule: exactly;"><!-- PREHEADER --> PREHEADER</div>
+<table class="rWidth320px bgColorGrey" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #e8e5e5;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" width="85%">
+<p class="arial size12 grey lineHeight17 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #828282; font-size: 12px; line-height: 17px; mso-line-height-rule: exactly;">Pour visionner cet e-mail dans votre naviteur cliquez <a class="grey noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #828282;" href="$!campaignData.mirrorLinkUrl.originalUrlWithPrefix">ici</a></p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="bgColorGrey" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #e8e5e5;" border="0" width="100%" cellspacing="0" cellpadding="0" align="center" bgcolor="#ffffff">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center"><!-- DEBUT HEADER -->
+<table class="rWidth320px bgColorWhite" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #ffffff;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingTop50 paddingBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 50px 0 15px 0;" align="center" valign="top"><a style="-webkit-text-size-adjust: none; border: 0;" title="Op&eacute;ra de Lyon" href="http://www.opera-lyon.com/"><img style="border: 0; display: block; vertical-align: top;" title="Op&eacute;ra de Lyon" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=logo.png" alt="Op&eacute;ra de Lyon" width="156" height="100" /></a></td>
+</tr>
+<!-- DEBUT MENU -->
+<tr>
+<td class="paddingBottom40 rWidth300px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 40px 0;" align="center" valign="top">
+<table class="rWidth300px rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="430" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rDisplayInlineBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="100" height="40"><a style="-webkit-text-size-adjust: none; border: 0;" title="Op&eacute;ra" href="http://www.opera-lyon.com/"><img style="border: 0; display: block; vertical-align: top;" title="Op&eacute;ra" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=menu-01.png" alt="Op&eacute;ra" width="100" height="40" /></a></th>
+<th class="rDisplayInlineBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="100" height="40"><a style="-webkit-text-size-adjust: none; border: 0;" title="Danse" href="http://www.opera-lyon.com/"><img style="border: 0; display: block; vertical-align: top;" title="Danse" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=menu-02.png" alt="Danse" width="100" height="40" /></a></th>
+<th class="rDisplayInlineBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="100" height="40"><a style="-webkit-text-size-adjust: none; border: 0;" title="Concert" href="http://www.opera-lyon.com/"><img style="border: 0; display: block; vertical-align: top;" title="Concert" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=menu-03.png" alt="Concert" width="100" height="40" /></a></th>
+<th class="rDisplayBlock rMarginAuto" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="130" height="40"><a style="-webkit-text-size-adjust: none; border: 0;" title="Billetterie" href="http://www.opera-lyon.com/"><img style="border: 0; display: block; vertical-align: top;" title="Billetterie" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=menu-04.png" alt="Billetterie" width="130" height="40" /></a></th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN MENU --></tbody>
+</table>
+<!-- FIN HEADER --> <!-- DEBUT ACTU PRINCIPALE N°1 -->
+<table class="rWidth320px bgColorWhite" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #ffffff;" border="0" width="624" cellspacing="0" cellpadding="0"><!-- DEBUT TITRE ACTU PRINCIPALE N°1 -->
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingBottom40" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 40px 0;" align="center" width="85%">
+<p class="arial size15 black lineHeight17 mso-lineHeight marginBottom40" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; margin-bottom: 40px; mso-line-height-rule: exactly;">Bonjour Pauline,</p>
+<p class="arial size35 black lineHeight37 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 35px; line-height: 37px; mso-line-height-rule: exactly;"><strong>Derni&egrave;re chance pour d&eacute;couvrir Mozart et Salieri</strong></p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN TITRE ACTU PRINCIPALE N°1 --> <!-- DEBUT ETIQUETTE BALLET - ACTU PRINCIPALE N°1 -->
+<tr>
+<td class="paddingBottom20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 20px 0;" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Ballet</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN ETIQUETTE BALLET - ACTU PRINCIPALE N°1 -->
+<tr>
+<td class="paddingBottom40" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 40px 0;" align="left" valign="top"><img class="full-width-image" style="border: 0; display: block; vertical-align: top; width: 100%; max-width: 624px; height: auto;" title="" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-a-la-une.jpg" alt="" border="0" /></td>
+</tr>
+<tr>
+<td class="rWidth320px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table class="rWidth320px" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="rWidth272px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" width="234">
+<p class="arial size20 beige lineHeight28 mso-lineHeight uppercase bold marginBottom25 paddingRight20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #b2a064; font-size: 20px; line-height: 28px; padding-right: 20px; margin-bottom: 25px; mso-line-height-rule: exactly;"><strong>DU 31 OCTOBRE<br />AU 7 NOVEMBRE<br />&Agrave; 19h30</strong></p>
+<p class="arial size15 black lineHeight17 mso-lineHeight bold marginBottom25 paddingRight20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; padding-right: 20px; margin-bottom: 25px; mso-line-height-rule: exactly;"><strong>entre 10 et 60&euro;</strong></p>
+</th>
+<th class="arial size15 black lineHeight24 mso-lineHeight rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly;" align="left" valign="top" width="310">Vous avez aim&eacute; Amadeus, le c&eacute;l&egrave;bre film de Milos Forman sur la l&eacute;gendaire rivalit&eacute; entre Mozart et le compositeur italien Salieri ? D&eacute;couvrez en ce moment la version op&eacute;ra de cette histoire mythique !</th>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="3" align="center" valign="top" height="40"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="40" height="40" /></td>
+</tr>
+<tr>
+<td class="size0 lineHeight0" style="-webkit-text-size-adjust: none; margin: 0; font-size: 0px; line-height: 0px; padding: 0;" width="40" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+<td class="size0 lineHeight0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; font-size: 0px; line-height: 0px; padding: 0;" align="center" valign="top" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+<td class="size0 lineHeight0" style="-webkit-text-size-adjust: none; margin: 0; font-size: 0px; line-height: 0px; padding: 0;" width="40" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="3" align="center" valign="top" height="24"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="24" height="24" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table class="rWidth272px rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="544" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rDisplayInlineBlock rWidth60percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="126" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="34"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-lieu.png" alt="" width="34" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">Op&eacute;ra de Lyon</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rDisplayInlineBlock rWidth40percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="80" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="29"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-duree.png" alt="" width="29" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">1h30</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rDisplayInlineBlock rWidth60percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="120" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="38"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-sous-titre.png" alt="" width="38" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">sous-titre</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rDisplayInlineBlock rWidth40percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="100" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="30"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-age.png" alt="" width="30" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">+12 ans</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rDisplayInlineBlock rWidth60percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="118" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="38"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-langue.png" alt="" width="38" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="bottom">en italien</td>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="5" align="center" valign="top" height="32"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="24" height="24" /></td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="size0 lineHeight0 rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; font-size: 0px; line-height: 0px; padding: 0;" width="40" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+<td class="size0 lineHeight0 bgColorBeige rWidth272px" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; font-size: 0px; line-height: 0px; padding: 0;" colspan="2" align="center" valign="top" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+<td class="size0 lineHeight0 rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; font-size: 0px; line-height: 0px; padding: 0;" width="40" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="24"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="24" height="24" /></td>
+</tr>
+<!-- DEBUT STRAT LIVRET/ PLAYLIST - ACTU PRINCIPALE N°1 -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="paddingBottom15 rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; padding-bottom: 15px;" align="center" width="272">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="middle" width="44"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" title="Je t&eacute;l&eacute;charge le livret" href="http://www.opera-lyon.com/"> <img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-telecharger.png" width="44" height="44" /> </a></td>
+<td class="arial size15 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle" width="150"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" href="http://www.opera-lyon.com/">Je t&eacute;l&eacute;charge le livret </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" valign="top" width="272">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="middle" width="44"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" title="J'&eacute;coute la playlist" href="http://www.opera-lyon.com/"> <img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-playlist.png" width="44" height="44" /> </a></td>
+<td class="arial size15 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle" width="150"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" href="http://www.opera-lyon.com/">J'&eacute;coute la playlist </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<!-- FIN STRAT LIVRET/ PLAYLIST - ACTU PRINCIPALE N°1 -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="25"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="25" height="25" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- DEBUT STRAT JE DECOUVRE/ JE RESERVE - ACTU PRINCIPALE N°1 -->
+<tr>
+<td colspan="3">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="rWidth232px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="2" align="left" width="92%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rWidth272px rDisplayBlock rAlignCenter rPaddingBottom15" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" width="300">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="100%">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack black noUnderline roundCorner0 inlineBlock paddingTB25 borderWhite" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #000000; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #ffffff;" href="http://www.opera-lyon.com/" target="_blank"> JE DECOUVRE </a></td>
+<td class="roundCorner0 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderWhite" style="-webkit-text-size-adjust: none; border: 1px solid #ffffff; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-rouge3.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rAlignCenter rPaddingBottom40" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="right" valign="top" width="300">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="right" valign="top" width="100%">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBlack" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25LR40 borderBlack" style="-webkit-text-size-adjust: none; border: 1px solid #000000; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; padding: 25px 40px; letter-spacing: 2px;" href="http://www.insign.fr" target="_blank"> JE RESERVE </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN STRAT JE DECOUVRE/ JE RESERVE - ACTU PRINCIPALE N°1 --></tbody>
+</table>
+<!-- FIN ACTU PRINCIPALE N°1 -->
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="50"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="50" height="50" /></td>
+</tr>
+</tbody>
+</table>
+<!-- DEBUT ACTU PRINCIPALE N°2 -->
+<table class="rWidth320px bgColorWhite" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #ffffff;" border="0" width="624" cellspacing="0" cellpadding="0"><!-- DEBUT TITRE ACTU PRINCIPALE N°2 -->
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingBottom40" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 40px 0;" align="center" width="85%">
+<p class="arial size15 black lineHeight17 mso-lineHeight marginBottom40" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; margin-bottom: 40px; mso-line-height-rule: exactly;">Bonjour Pauline,</p>
+<p class="arial size35 black lineHeight37 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 35px; line-height: 37px; mso-line-height-rule: exactly;"><strong>Derni&egrave;re chance pour d&eacute;couvrir Mozart et Salieri</strong></p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN TITRE ACTU PRINCIPALE N°2 --> <!-- DEBUT ETIQUETTE BALLET - ACTU PRINCIPALE N°2 -->
+<tr>
+<td class="paddingBottom20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 20px 0;" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Ballet</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- DEBUT ETIQUETTE BALLET - ACTU PRINCIPALE N°2 -->
+<tr>
+<td class="paddingBottom40" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 40px 0;" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rWidth320px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" width="312"><img class="rWidth320px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-a-la-une2.jpg" alt="" width="312" height="410" /></th>
+<th class="arial size15 black lineHeight24 bgColorBeige mso-lineHeight rWidth320px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #b2a064; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly;" align="left" valign="top" width="312">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="30">&nbsp;</td>
+<td class="paddingTop45 paddingBottom45" style="-webkit-text-size-adjust: none; margin: 0; padding: 45px 0 45px 0;" align="left" width="85%">
+<p class="arial size20 black lineHeight28 mso-lineHeight uppercase bold marginBottom25 paddingRight20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 20px; line-height: 28px; padding-right: 20px; margin-bottom: 25px; mso-line-height-rule: exactly;"><strong>DU 31 OCTOBRE<br />AU 7 NOVEMBRE<br />&Agrave; 19h30</strong></p>
+<p class="arial size15 white lineHeight17 mso-lineHeight bold marginBottom25 paddingRight20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 15px; line-height: 17px; padding-right: 20px; margin-bottom: 25px; mso-line-height-rule: exactly;"><strong>entre 10 et 60&euro;</strong></p>
+<p class="arial size15 black lineHeight24 mso-lineHeight bold paddingRight20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; padding-right: 20px; mso-line-height-rule: exactly;">Vous avez aim&eacute; Amadeus, le c&eacute;l&egrave;bre film de Milos Forman sur la l&eacute;gendaire rivalit&eacute; entre Mozart et le compositeur italien Salieri ? D&eacute;couvrez en ce moment la version op&eacute;ra de cette histoire mythique !</p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="30">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- DEBUT STRAT PICTO - ACTU PRINCIPALE N°2 -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table class="rWidth272px rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="544" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rDisplayInlineBlock rWidth60percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="126" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="34"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-lieu.png" alt="" width="34" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">Op&eacute;ra de Lyon</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rDisplayInlineBlock rWidth40percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="80" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="29"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-duree.png" alt="" width="29" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">1h30</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rDisplayInlineBlock rWidth60percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="120" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="38"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-sous-titre.png" alt="" width="38" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">sous-titre</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rDisplayInlineBlock rWidth40percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="100" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="30"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-age.png" alt="" width="30" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">+12 ans</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rDisplayInlineBlock rWidth60percent" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" valign="top" width="118" height="50">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="38"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-langue.png" alt="" width="38" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="bottom">en italien</td>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN STRAT PICTO - ACTU PRINCIPALE N°2 -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="5" align="center" valign="top" height="32"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="24" height="24" /></td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="size0 lineHeight0" style="-webkit-text-size-adjust: none; margin: 0; font-size: 0px; line-height: 0px; padding: 0;" width="40" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+<td class="size0 lineHeight0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; font-size: 0px; line-height: 0px; padding: 0;" colspan="2" align="center" valign="top" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+<td class="size0 lineHeight0" style="-webkit-text-size-adjust: none; margin: 0; font-size: 0px; line-height: 0px; padding: 0;" width="40" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="24"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="24" height="24" /></td>
+</tr>
+<!-- DEBUT STRAT LIVRET/PLAYLIST - ACTU PRINCIPALE N°2 -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="paddingBottom15 rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; padding-bottom: 15px;" align="center" width="272">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="middle" width="44"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" title="Je t&eacute;l&eacute;charge le livret" href="http://www.opera-lyon.com/"> <img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-telecharger.png" width="44" height="44" /> </a></td>
+<td class="arial size15 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle" width="150"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" href="http://www.opera-lyon.com/">Je t&eacute;l&eacute;charge le livret </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" valign="top" width="272">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="middle" width="44"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" title="J'&eacute;coute la playlist" href="http://www.opera-lyon.com/"> <img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-playlist.png" width="44" height="44" /> </a></td>
+<td class="arial size15 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle" width="150"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" href="http://www.opera-lyon.com/">J'&eacute;coute la playlist </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="25"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="25" height="25" /></td>
+</tr>
+<!-- FIN STRAT LIVRET/PLAYLIST - ACTU PRINCIPALE N°2 --></tbody>
+</table>
+</td>
+</tr>
+<!-- DEBUT STRAT JE DECOUVRE/ JE RESERVE - ACTU PRINCIPALE N°2 -->
+<tr>
+<td colspan="3">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="rWidth232px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="2" align="left" width="92%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rWidth272px rDisplayBlock rAlignCenter rPaddingBottom15" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" width="300">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="100%">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack black noUnderline roundCorner0 inlineBlock paddingTB25 borderWhite" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #000000; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #ffffff;" href="http://www.opera-lyon.com/" target="_blank"> JE DECOUVRE </a></td>
+<td class="roundCorner0 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderWhite" style="-webkit-text-size-adjust: none; border: 1px solid #ffffff; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-rouge3.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rAlignCenter rPaddingBottom40" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="right" valign="top" width="300">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="right" valign="top" width="100%">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBlack" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25LR40 borderBlack" style="-webkit-text-size-adjust: none; border: 1px solid #000000; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; padding: 25px 40px; letter-spacing: 2px;" href="http://www.insign.fr" target="_blank"> JE RESERVE </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN STRAT JE DECOUVRE/ JE RESERVE - ACTU PRINCIPALE N°2 --></tbody>
+</table>
+<!-- FIN ACTU PRINCIPALE N°2 --> <!-- DEBUT BLOC EGALEMENT -->
+<table class="rWidth320px bgColorGreyLight" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #f5f2f2;" border="0" width="624" cellspacing="0" cellpadding="0"><!-- DEBUT TITRE EGALEMENT -->
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="arial size22 black lineHeight24 mso-lineHeight bold paddingTop50 paddingBottom50" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 22px; line-height: 24px; mso-line-height-rule: exactly; padding: 50px 0 50px 0;" align="center" width="85%"><strong>&Eacute;GALEMENT EN NOVEMBRE</strong></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN TITRE EGALEMENT --> <!-- DEBUT BLOC IMAGE GAUCHE, TEXTE DROITE, FOND BLANC -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingBottom20 rWidth272px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 20px 0;" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-black.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorBlack mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Rendez-vous</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-black.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock rPaddingTop20 bgColorWhite" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #ffffff;" align="center" width="234"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-actu-01.jpg" alt="" width="234" height="275" /></th>
+<th class="rWidth272px rDisplayBlock bgColorWhite" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #ffffff;" align="left" valign="top" width="310">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingTop30 paddingBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 30px 0 15px 0;" align="left" width="85%">
+<p class="arial size28 marginBottom15 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>Soir&eacute;e de gala &agrave; l'Op&eacute;ra</strong></p>
+<p class="arial size15 beige lineHeight20 mso-lineHeight bold marginBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #b2a064; font-size: 15px; line-height: 20px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>29 novembre &agrave; 19h30 <br />De 68 &agrave; 78&euro;</strong></p>
+<p class="arial size15 black lineHeight20 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly;">Lorem ipsum in dolor.</p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" width="85%"><!-- DEBUT BOUTON J&#39;Y VAIS -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack black noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #000000; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #ffffff;" href="http://www.opera-lyon.com/" target="_blank"> J'Y VAIS </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #ffffff; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-rouge2.png" alt="" width="54" height="40" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- DEBUT BOUTON J&#39;Y VAIS --></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="40"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="40" height="40" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN BLOC IMAGE GAUCHE, TEXTE DROITE, FOND BLANC --> <!-- DEBUT BLOC IMAGE DROITE, TEXTE GAUCHE, FOND BLANC -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingBottom20 rWidth272px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 20px 0;" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-black.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorBlack mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Rendez-vous</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-black.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; direction: rtl; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock rPaddingTop20 bgColorWhite" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #ffffff;" align="center" width="234"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-actu-01.jpg" alt="" width="234" height="275" /></th>
+<th class="rWidth272px rDisplayBlock bgColorWhite" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #ffffff;" align="left" valign="top" width="310">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingTop30 paddingBottom15" style="-webkit-text-size-adjust: none; margin: 0; direction: ltr; padding: 30px 0 15px 0;" align="left" width="85%">
+<p class="arial size28 marginBottom15 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>Soir&eacute;e de gala &agrave; l'Op&eacute;ra</strong></p>
+<p class="arial size15 beige lineHeight20 mso-lineHeight bold marginBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #b2a064; font-size: 15px; line-height: 20px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>29 novembre &agrave; 19h30 <br />De 68 &agrave; 78&euro;</strong></p>
+<p class="arial size15 black lineHeight20 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly;">Lorem ipsum in dolor.</p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; direction: ltr; padding: 0;" align="left" width="85%"><!-- DEBUT BOUTON J&#39;Y VAIS -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack black noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #000000; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #ffffff;" href="http://www.opera-lyon.com/" target="_blank"> J'Y VAIS </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #ffffff; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-rouge2.png" alt="" width="54" height="40" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON J&#39;Y VAIS --></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="40"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="40" height="40" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN BLOC IMAGE DROITE, TEXTE GAUCHE, FOND BLANC --> <!-- DEBUT BLOC IMAGE GAUCHE, TEXTE DROITE, FOND DORE -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingBottom20 rWidth272px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 20px 0;" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red-grey.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Ballet</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red-grey.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock rPaddingTop20 bgColorBeige" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #b2a064;" align="center" width="234"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-actu-02.jpg" alt="" width="234" height="365" /></th>
+<th class="rWidth272px rDisplayBlock bgColorBeige" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #b2a064;" align="left" valign="top" width="310">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingTop30 paddingBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 30px 0 15px 0;" align="left" width="85%">
+<p class="arial size28 marginBottom5 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 5px; mso-line-height-rule: exactly;"><strong>L'Arl&eacute;sienne / Carmen</strong></p>
+<p class="arial size16 black lineHeight24 mso-lineHeight marginBottom30" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 16px; line-height: 24px; margin-bottom: 30px; mso-line-height-rule: exactly;">Roland Petit</p>
+<p class="arial size15 white lineHeight20 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly;"><strong>du 18 au 24 novembre<br /> &agrave; 16h ou 20h,<br /> entre 10 et 52&euro;</strong></p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 15px 0;" align="left" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="bottom" width="30"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-age-beige.png" alt="" width="32" height="45" /></td>
+<td class="arial size15 black lineHeight17 mso-lineHeight paddingRight10" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 17px; mso-line-height-rule: exactly; padding: 0 10px 0 0;" align="left" valign="bottom">+12 ans</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" width="85%"><!-- DEBUT BOUTON JE DECOUVRE -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #b2a064;" href="http://www.opera-lyon.com/" target="_blank"> JE D&Eacute;COUVRE </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #b2a064; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-beige3.png" alt="" width="55" height="40" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- DEBUT BOUTON JE DECOUVRE --></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="40"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="40" height="40" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN BLOC IMAGE GAUCHE, TEXTE DROITE, FOND DORE --> <!-- DEBUT BLOC PLEINE LARGEUR FOND BLANC -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingBottom20 rWidth272px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 20px 0;" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-black.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorBlack mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Rendez-vous</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-black.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="rWidth272px bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; padding: 0;" align="center" width="544"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-actu-03.jpg" alt="" width="100%" /></td>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px bgColorWhite" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #ffffff;" align="left" valign="top" width="544">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingTop30 paddingBottom40 rWidth232px" style="-webkit-text-size-adjust: none; margin: 0; padding: 30px 0 40px 0;" align="left" width="85%">
+<p class="arial size28 marginBottom15 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>Soir&eacute;e de gala &agrave; l'Op&eacute;ra</strong></p>
+<p class="arial size15 black lineHeight20 mso-lineHeight bold marginBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>29 novembre &agrave; 19h30 <br /> Entre 68 &agrave; 78&euro;</strong></p>
+<p class="arial size15 beige lineHeight20 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #b2a064; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly;">Choisissez de d&eacute;couvrir le concert Haendel / Porpora &agrave; l'occasion de la soir&eacute;e de Gala de l'Op&eacute;ra de Lyon, ouverte &agrave; tous. Coupe de champagne, tapis rouge et ambiance festive seront au rendez-vous !</p>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="rWidth232px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="2" align="left" width="92%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rWidth272px rDisplayBlock rAlignCenter rPaddingBottom15" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" width="300">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="100%"><!-- DEBUT BOUTON J&#39;Y VAIS -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack black noUnderline roundCorner0 inlineBlock paddingTB25 borderWhite" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #000000; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #ffffff;" href="http://www.opera-lyon.com/" target="_blank"> J'Y VAIS </a></td>
+<td class="roundCorner0 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderWhite" style="-webkit-text-size-adjust: none; border: 1px solid #ffffff; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-rouge3.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON J&#39;Y VAIS --></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rAlignCenter rPaddingBottom40" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="right" valign="top" width="300"><!-- DEBUT BOUTON JE RESERVE -->
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="right" valign="top" width="100%">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBlack" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25LR40 borderBlack" style="-webkit-text-size-adjust: none; border: 1px solid #000000; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; padding: 25px 40px; letter-spacing: 2px;" href="http://www.insign.fr" target="_blank"> JE RESERVE </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON JE RESERVE --></th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="3" align="center" valign="top" height="40"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="40" height="40" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- DEBUT BLOC PLEINE LARGEUR FOND BLANC --> <!-- DEBUT BLOC PLEINE LARGEUR FOND DORE -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingBottom20 rWidth272px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 20px 0;" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red-grey.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Ballet</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red-grey.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="rWidth272px bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; padding: 0;" align="center" width="544"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-actu-04.jpg" alt="" width="100%" /></td>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px bgColorBeige" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #b2a064;" align="left" valign="top" width="544">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="paddingTop30 paddingBottom40 rWidth232px" style="-webkit-text-size-adjust: none; margin: 0; padding: 30px 0 40px 0;" align="left" width="85%">
+<p class="arial size28 marginBottom5 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 5px; mso-line-height-rule: exactly;"><strong>L'Arl&eacute;sienne / Carmen</strong></p>
+<p class="arial size16 black lineHeight24 mso-lineHeight marginBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 16px; line-height: 24px; margin-bottom: 15px; mso-line-height-rule: exactly;">Roland Petit</p>
+<p class="arial size15 white lineHeight20 mso-lineHeight bold marginBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 15px; line-height: 20px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>29 novembre &agrave; 19h30,<br />entre 68 et 78&euro;</strong></p>
+<p class="arial size15 black lineHeight20 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly;">Choisissez de d&eacute;couvrir le concert Haendel / Porpora &agrave; l'occasion de la soir&eacute;e de Gala de l'Op&eacute;ra de Lyon, ouverte &agrave; tous. Coupe de champagne, tapis rouge et ambiance festive seront au rendez-vous !</p>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td colspan="3">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="rWidth232px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="2" align="left" width="92%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<th class="rWidth272px rDisplayBlock rAlignCenter rPaddingBottom15" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="left" width="300">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="100%"><!-- DEBUT BOUTON JE DECOUVRE -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #b2a064;" href="http://www.opera-lyon.com/" target="_blank"> JE D&Eacute;COUVRE </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #b2a064; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-beige2.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON JE DECOUVRE --></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rAlignCenter rPaddingBottom40" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="right" valign="top" width="300"><!-- DEBUT BOUTON JE RESERVE -->
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="right" valign="top" width="100%">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBlack" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25LR40 borderBlack" style="-webkit-text-size-adjust: none; border: 1px solid #000000; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; padding: 25px 40px; letter-spacing: 2px;" href="http://www.insign.fr" target="_blank"> JE RESERVE </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON JE RESERVE --></th>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td class="rWidth24px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="3" align="center" valign="top" height="40"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="40" height="40" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="size0 lineHeight0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; font-size: 0px; line-height: 0px; padding: 0;" align="center" valign="top" height="2"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="2" height="2" /></td>
+</tr>
+<!-- FIN BLOC PLEINE LARGEUR FOND DORE --></tbody>
+</table>
+<!-- FIN BLOC EGALEMENT --> <!-- DEBUT BLOC PROCHAINEMENT -->
+<table class="rWidth320px bgColorGreyLight" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #f5f2f2;" border="0" width="624" cellspacing="0" cellpadding="0"><!-- DEBUT TITRE PROCHAINEMENT -->
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="arial size22 black lineHeight24 mso-lineHeight bold paddingTop50 paddingBottom50" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 22px; line-height: 24px; mso-line-height-rule: exactly; padding: 50px 0 50px 0;" align="center" width="85%"><strong>PROCHAINEMENT</strong></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN  TITRE PROCHAINEMENT --> <!-- DEBUT BLOC 1/2 avec image -->
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="256">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingBottom20 rWidth272px bgColorGreyLight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f5f2f2; padding: 0 0 20px 0;" colspan="3" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #f70810;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red-grey.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Op&eacute;ra</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red-grey.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="rPaddingTop20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="3" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-actu-05-256x272.jpg" alt="" width="256" height="272" /></td>
+</tr>
+<tr>
+<td class="rWidth20px bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingTop30 paddingBottom15 rWidth216px height170 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; height: 170px; padding: 30px 0 15px 0;" align="left" valign="top" width="85%" height="150">
+<p class="arial size28 marginBottom5 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 5px; mso-line-height-rule: exactly;"><strong>Mozart et Salieri</strong></p>
+<p class="arial size16 black lineHeight24 mso-lineHeight marginBottom15" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 16px; line-height: 24px; margin-bottom: 15px; mso-line-height-rule: exactly;">Nikola&iuml; Rimski-Korsakov</p>
+<p class="arial size15 black lineHeight20 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly;"><strong>du 20 janvier au<br />3 mars 2018,<br />entre 10&euro; et 89&euro;</strong></p>
+</td>
+<td class="rWidth20px bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom20 rWidth216px bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; padding: 0 0 20px 0;" align="left" width="85%">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #b2a064;" href="http://www.opera-lyon.com/" target="_blank"> JE D&Eacute;COUVRE </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #b2a064; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-beige2.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth20px bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="bgColorBlack" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; padding: 0;" colspan="3" align="center" width="100%">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBlack" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25LR40 borderBlack" style="-webkit-text-size-adjust: none; border: 1px solid #000000; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; padding: 25px 40px; letter-spacing: 2px;" href="http://www.insign.fr" target="_blank"> JE RESERVE </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom40 bgColorGreyLight" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #f5f2f2;" align="center" width="32">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="256">
+<table style="background-color: #fffffff; border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingBottom20 rWidth272px bgColorGreyLight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f5f2f2; padding: 0 0 20px 0;" colspan="3" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-black.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorBlack mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Rendez-vous</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-black.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="rPaddingTop20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="3" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=photo-actu-06-256x272.jpg" alt="" width="256" height="272" /></td>
+</tr>
+<tr>
+<td class="rWidth20px bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; padding: 0;" valign="top" width="20"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" width="20" height="20" /></td>
+<td class="paddingTop30 paddingBottom15 rWidth216px height170 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; height: 170px; padding: 30px 0 15px 0;" align="left" valign="top" width="85%" height="150">
+<p class="arial size28 marginBottom5 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 5px; mso-line-height-rule: exactly;"><strong>Rencontre avec J&eacute;r&ocirc;me Bel</strong></p>
+<p class="arial size15 black lineHeight20 marginBottom30 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; margin-bottom: 30px; mso-line-height-rule: exactly;"><strong>Jeudi 17 avril - 19h30</strong></p>
+<p class="arial size16 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 16px; line-height: 24px; mso-line-height-rule: exactly;">Pour aller plus loins !</p>
+</td>
+<td class="rWidth20px bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; padding: 0;" width="20"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" width="20" height="20" /></td>
+</tr>
+<tr>
+<td class="rWidth20px bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom20 rWidth216px bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; padding: 0 0 20px 0;" align="left" width="85%"><!-- DEBUT BOUTON J&#39;Y VAIS -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack black noUnderline roundCorner0 inlineBlock paddingTB25 borderWhite" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #000000; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #ffffff;" href="http://www.opera-lyon.com/" target="_blank"> J'Y VAIS </a></td>
+<td class="roundCorner0 bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderWhite" style="-webkit-text-size-adjust: none; border: 1px solid #ffffff; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-rouge3.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON J&#39;Y VAIS --></td>
+<td class="rWidth20px bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="bgColorBlack" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; padding: 0;" colspan="3" align="center" width="100%"><!-- DEBUT BOUTON JE RESERVE -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBlack" style="-webkit-text-size-adjust: none; margin: 0; background-color: #000000; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25LR40 borderBlack" style="-webkit-text-size-adjust: none; border: 1px solid #000000; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; padding: 25px 40px; letter-spacing: 2px;" href="http://www.insign.fr" target="_blank"> JE RESERVE </a></td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON JE RESERVE --></td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="40"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="40" height="40" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN BLOC 1/2 avec image --></tbody>
+</table>
+<!-- DEBUT BLOCS 1/2 DORE - FOND BLANC -->
+<table class="rWidth320px bgColorWhite" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #ffffff;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingTop50" style="-webkit-text-size-adjust: none; margin: 0; padding: 50px 0 0 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock bgColorBeige" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #b2a064;" align="center" width="256">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingBottom20 rWidth272px bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; padding: 0 0 20px 0;" colspan="3" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Concert</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingTop30 paddingBottom15 rWidth216px minHeight320" style="-webkit-text-size-adjust: none; margin: 0; min-height: 320px; padding: 30px 0 15px 0;" align="left" valign="top" width="85%" height="320">
+<p class="arial size28 marginBottom15 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>Concert Haendel / Porpora</strong></p>
+<p class="arial size15 black lineHeight20 mso-lineHeight bold marginBottom25" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; margin-bottom: 25px; mso-line-height-rule: exactly;"><strong>du 20 janvier au<br />3 mars 2018,<br />entre 10&euro; et 89&euro;</strong></p>
+<p class="arial size16 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 16px; line-height: 24px; mso-line-height-rule: exactly;">Impossible de manquer un concert avec le chef Stefano Montanari et le brillant contre-t&eacute;nor Lawrence Zazzo !</p>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom10 rWidth216px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 10px 0;" align="left" width="85%"><!-- DEBUT BOUTON JE DECOUVRE -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #b2a064;" href="http://www.opera-lyon.com/" target="_blank"> JE D&Eacute;COUVRE </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #b2a064; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-beige2.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON JE DECOUVRE --></td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom40 bgColorWhite" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #ffffff;" align="center" width="32">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock bgColorBeige" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #b2a064;" align="center" width="256">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingBottom20 rWidth272px bgColorWhite" style="-webkit-text-size-adjust: none; margin: 0; background-color: #ffffff; padding: 0 0 20px 0;" colspan="3" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Concert</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingTop30 paddingBottom15 rWidth216px minHeight202" style="-webkit-text-size-adjust: none; margin: 0; min-height: 202px; padding: 30px 0 15px 0;" align="left" valign="top" width="85%" height="202">
+<p class="arial size28 marginBottom15 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>Concert Haendel / Porpora</strong></p>
+<p class="arial size15 black lineHeight20 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly;"><strong>du 20 janvier au<br />3 mars 2018,<br />entre 10&euro; et 89&euro;</strong></p>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom15 rWidth216px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 15px 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="middle" width="37"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" title="Je t&eacute;l&eacute;charge le livret" href="http://www.opera-lyon.com/"> <img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-telecharger-beige.png" width="37" height="44" /> </a></td>
+<td class="arial size15 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle" width="150"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" href="http://www.opera-lyon.com/">Je t&eacute;l&eacute;charge le livret </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom15 rWidth216px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 15px 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="middle" width="37"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" title="J'&eacute;coute la playlist" href="http://www.opera-lyon.com/"> <img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-playlist-beige.png" width="37" height="44" /> </a></td>
+<td class="arial size15 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle" width="150"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" href="http://www.opera-lyon.com/">J'&eacute;coute la playlist </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom10 rWidth216px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 10px 0;" align="left" width="85%"><!-- DEBUT BOUTON JE DECOUVRE -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #b2a064;" href="http://www.opera-lyon.com/" target="_blank"> JE D&Eacute;COUVRE </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #b2a064; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-beige2.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON JE DECOUVRE --></td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="50"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="50" height="50" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BLOCS 1/2 DORE - FOND BLANC --> <!-- DEBUT BLOCS 1/2 DORE - FOND GRIS -->
+<table class="rWidth320px bgColorGreyLight" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #f5f2f2;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingTop50" style="-webkit-text-size-adjust: none; margin: 0; padding: 50px 0 0 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock bgColorBeige" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #b2a064;" align="center" width="256">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingBottom20 rWidth272px bgColorGreyLight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f5f2f2; padding: 0 0 20px 0;" colspan="3" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red-grey.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Concert</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red-grey.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingTop30 paddingBottom15 rWidth216px minHeight320" style="-webkit-text-size-adjust: none; margin: 0; min-height: 320px; padding: 30px 0 15px 0;" align="left" valign="top" width="85%" height="320">
+<p class="arial size28 marginBottom15 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>Concert Haendel / Porpora</strong></p>
+<p class="arial size15 black lineHeight20 mso-lineHeight bold marginBottom25" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; margin-bottom: 25px; mso-line-height-rule: exactly;"><strong>du 20 janvier au<br />3 mars 2018,<br />entre 10&euro; et 89&euro;</strong></p>
+<p class="arial size16 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 16px; line-height: 24px; mso-line-height-rule: exactly;">Impossible de manquer un concert avec le chef Stefano Montanari et le brillant contre-t&eacute;nor Lawrence Zazzo !</p>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom10 rWidth216px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 10px 0;" align="left" width="85%"><!-- DEBUT BOUTON JE DECOUVRE -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #b2a064;" href="http://www.opera-lyon.com/" target="_blank"> JE D&Eacute;COUVRE </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #b2a064; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-beige2.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- FIN BOUTON JE DECOUVRE --></td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom40" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="32">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock bgColorBeige" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top; background-color: #b2a064;" align="center" width="256">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingBottom20 rWidth272px bgColorGreyLight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f5f2f2; padding: 0 0 20px 0;" colspan="3" align="left" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="rPaddingleft20" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-left-red-grey.png" width="12" height="30" /></td>
+<td class="arial size14 lineHeight16 white bgColorRed mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; background-color: #f70810; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 14px; line-height: 16px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle">Concert</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="12"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=round-right-red-grey.png" width="12" height="30" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingTop30 paddingBottom15 rWidth216px minHeight202" style="-webkit-text-size-adjust: none; margin: 0; min-height: 202px; padding: 30px 0 15px 0;" align="left" valign="top" width="85%" height="202">
+<p class="arial size28 marginBottom15 black lineHeight33 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 28px; line-height: 33px; margin-bottom: 15px; mso-line-height-rule: exactly;"><strong>Concert Haendel / Porpora</strong></p>
+<p class="arial size15 black lineHeight20 mso-lineHeight bold" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 20px; mso-line-height-rule: exactly;"><strong>du 20 janvier au<br />3 mars 2018,<br />entre 10&euro; et 89&euro;</strong></p>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom15 rWidth216px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 15px 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="middle" width="37"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" title="Je t&eacute;l&eacute;charge le livret" href="http://www.opera-lyon.com/"> <img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-telecharger-beige.png" width="37" height="44" /> </a></td>
+<td class="arial size15 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle" width="150"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" href="http://www.opera-lyon.com/">Je t&eacute;l&eacute;charge le livret </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom15 rWidth216px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 15px 0;" align="left" valign="top" width="85%">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="middle" width="37"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" title="J'&eacute;coute la playlist" href="http://www.opera-lyon.com/"> <img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=picto-playlist-beige.png" width="37" height="44" /> </a></td>
+<td class="arial size15 black lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; line-height: 24px; mso-line-height-rule: exactly; padding: 0;" align="left" valign="middle" width="150"><a class="black noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #000000; text-decoration: none;" href="http://www.opera-lyon.com/">J'&eacute;coute la playlist </a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+<tr>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+<td class="paddingBottom10 rWidth216px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0 0 10px 0;" align="left" width="85%"><!-- DEBUT BOUTON JE DECOUVRE -->
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="left"><a class="size12 arialblack white noUnderline roundCorner0 inlineBlock paddingTB25 borderBeige" style="-webkit-text-size-adjust: none; border: 0; font-family: Arial Black, Arial Bold, Gadget, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block; letter-spacing: 2px; padding-top: 25px; padding-bottom: 25px; border-color: #b2a064;" href="http://www.opera-lyon.com/" target="_blank"> JE D&Eacute;COUVRE </a></td>
+<td class="roundCorner0 bgColorBeige" style="-webkit-text-size-adjust: none; margin: 0; background-color: #b2a064; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; padding: 0;" align="center" valign="middle"><a class="size12 arial white noUnderline roundCorner0 inlineBlock borderBeige" style="-webkit-text-size-adjust: none; border: 1px solid #b2a064; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 12px; text-decoration: none; -webkit-border-radius: 0px; -moz-border-radius: 0px; border-radius: 0px; display: inline-block;" href="http://www.opera-lyon.com/" target="_blank"> <img class="displayInlineBlock" style="border: 0; display: block; vertical-align: middle;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=101241338389&amp;documentImageId=&amp;imageName=fleche-beige2.png" alt="" width="55" height="62" /> </a></td>
+</tr>
+</tbody>
+</table>
+<!-- DEBUT BOUTON JE DECOUVRE --></td>
+<td class="rWidth20px" style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="20">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="50"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="50" height="50" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<!-- FIN BLOCS 1/2 DORE - FOND GRIS --></tbody>
+</table>
+<!-- FIN BLOC PROCHAINEMENT --> <!-- DEBUT MEDIATHEQUE FOND BLANC -->
+<table class="rWidth320px bgColorWhite" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #ffffff;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="arial size22 black lineHeight24 mso-lineHeight bold paddingTop50 paddingBottom50" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 22px; line-height: 24px; mso-line-height-rule: exactly; padding: 50px 0 50px 0;" align="center" width="85%"><strong>RETOUR SUR MOZART ET SALIERI</strong></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-01.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-02.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-03.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="8"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="8" height="8" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-04.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-05.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-06.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="8"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="8" height="8" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-07.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-08.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-09.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="50"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="50" height="50" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- FIN MEDIATHEQUE FOND BLANC --> <!-- DEBUT MEDIATHEQUE FOND GRIS  -->
+<table class="rWidth320px bgColorGreyLight" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #f5f2f2;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td class="arial size22 black lineHeight24 mso-lineHeight bold paddingTop50 paddingBottom50" style="-webkit-text-size-adjust: none; margin: 0; font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 22px; line-height: 24px; mso-line-height-rule: exactly; padding: 50px 0 50px 0;" align="center" width="85%"><strong>RETOUR SUR MOZART ET SALIERI</strong></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-01.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-02.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-03.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="8"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="8" height="8" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-04.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-05.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-06.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="8"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="8" height="8" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-07.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-08.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<th class="rWidth272px rDisplayBlock rPaddingBottom8" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="8">&nbsp;</th>
+<th class="rWidth272px rDisplayBlock" style="margin: 0; padding: 0; font-weight: normal; vertical-align: top;" align="center" width="176">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" valign="top" width="100%"><img class="rWidth234px" style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=mosaique-09.jpg" alt="" width="176" height="176" /></td>
+</tr>
+</tbody>
+</table>
+</th>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" colspan="4" align="center" valign="top" height="50"><img style="border: 0; display: block; vertical-align: top;" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=spacer.gif" alt="" width="50" height="50" /></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- FIN MEDIATHEQUE FOND GRIS  --> <!-- DEBUT RESEAUX SOCIAUX -->
+<table class="rWidth320px bgColorBeige" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #b2a064;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingTop15 paddingBottom15 rWidth300px" style="-webkit-text-size-adjust: none; margin: 0; padding: 15px 0 15px 0;" align="center" valign="top">
+<table class="rMarginAuto" style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="195" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="32" height="45"><a style="-webkit-text-size-adjust: none; border: 0;" title="Facebook" href="https://www.facebook.com/operadelyon"><img style="border: 0; display: block; vertical-align: top;" title="Facebook" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=reseaux-sociaux-01.png" alt="Facebook" width="32" height="45" /></a></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="50" height="45"><a style="-webkit-text-size-adjust: none; border: 0;" title="Instagram" href="https://www.instagram.com/operadelyon"><img style="border: 0; display: block; vertical-align: top;" title="Instagram" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=reseaux-sociaux-02.png" alt="Instagram" width="50" height="45" /></a></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="39" height="45"><a style="-webkit-text-size-adjust: none; border: 0;" title="Twitter" href="https://twitter.com/operadelyon"><img style="border: 0; display: block; vertical-align: top;" title="Twitter" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=reseaux-sociaux-03.png" alt="Twitter" width="39" height="45" /></a></td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="left" valign="top" width="74" height="45"><a style="-webkit-text-size-adjust: none; border: 0;" title="Youtube" href="https://www.youtube.com/user/OperadeLyon"><img style="border: 0; display: block; vertical-align: top;" title="Youtube" src="editCampaignEmailTemplate.htm?action=loadImage&amp;entid=&amp;documentImageId=ODL_101241217191&amp;imageName=reseaux-sociaux-04.png" alt="Youtube" width="74" height="45" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- FIN RESEAUX SOCIAUX --> <!-- DEBUT FOOTER FOND NOIR -->
+<table class="rWidth320px bgColorBlack" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #000000;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingTop40 paddingBottom40 rWidth300px" style="-webkit-text-size-adjust: none; margin: 0; padding: 40px 0 40px 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" width="85%">
+<p class="arial size15 white lineHeight24 mso-lineHeight marginBottom30" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 15px; line-height: 24px; margin-bottom: 30px; mso-line-height-rule: exactly;">Op&eacute;ra de Lyon<br />1 place de la com&eacute;die<br />69001 Lyon</p>
+<p class="arial size15 white lineHeight24 mso-lineHeight marginBottom40" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #ffffff; font-size: 15px; line-height: 24px; margin-bottom: 40px; mso-line-height-rule: exactly;">Information et r&eacute;servation sur <a class="white noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #ffffff; text-decoration: none;" href="http://www.opera-lyon.com/">www.opera-lyon.com</a><br />ou au <a class="white noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #ffffff; text-decoration: none;" href="tel:0469855454">04 69 85 54 54</a> (mardi/samedi, 12h/19h)</p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class="rWidth320px bgColorWhite" style="border: 0; padding: 0; margin: 0; border-spacing: 0; background-color: #ffffff;" border="0" width="624" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td class="paddingTop30 paddingBottom30 rWidth300px" style="-webkit-text-size-adjust: none; margin: 0; padding: 30px 0 30px 0;" align="center" valign="top">
+<table style="border: 0; padding: 0; margin: 0; border-spacing: 0;" border="0" width="100%" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" align="center" width="85%">
+<p class="arial size12 grey lineHeight24 mso-lineHeight" style="-webkit-text-size-adjust: none; margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; color: #828282; font-size: 12px; line-height: 24px; mso-line-height-rule: exactly;">&copy; Copyright 2017 Op&eacute;ra de Lyon. Tous droits r&eacute;serv&eacute;s<br /> <a class="grey noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #828282; text-decoration: none;" href="$!campaignData.contact.unsubscribeUrl.originalUrlWithPrefix">Se d&eacute;sabonner</a> | <a class="grey noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #828282; text-decoration: none;" href="http://www.opera-lyon.com/">Conditions g&eacute;n&eacute;rales de vente</a> | <a class="grey noUnderline" style="-webkit-text-size-adjust: none; border: 0; color: #828282; text-decoration: none;" href="http://www.opera-lyon.com/">Lorem ipsum</a></p>
+</td>
+<td style="-webkit-text-size-adjust: none; margin: 0; padding: 0;" width="40">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- FIN FOOTER FOND NOIR --></td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</body></html>
